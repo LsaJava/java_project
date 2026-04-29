@@ -1,18 +1,3 @@
-/*
- * Na lei do motorista, ele não pode dirigir mais que um certo tempo sem descanso.
-
-Entrada 1: Total de horas dirigidas no dia.
-
-Entrada 2: O motorista fez a parada obrigatória de 30 minutos? (Use 1 para Sim e 0 para Não).
-
-Regras:
-
-Se horas > 5.5 E parada for 0: "Alerta: Motorista deve parar imediatamente para descanso!"
-
-Se horas > 5.5 E parada for 1: "Jornada regular. Siga viagem."
-
-Se horas <= 5.5: "Horário de direção dentro do limite."
- * */
 import java.util.Scanner;
 
 public class Ex16 {

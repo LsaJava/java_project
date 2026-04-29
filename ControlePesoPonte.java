@@ -1,18 +1,3 @@
-/**
-Balança de Ponte (Conversão Kg para Toneladas)
-Você está na entrada de uma ponte antiga. O limite de peso da ponte está em Toneladas (t), 
-mas a balança do caminhão mede em Quilos (kg).
-
-Entrada 1: Peso do caminhão em Kg (ex: 12500).
-
-Entrada 2: Limite da ponte em Toneladas (ex: 10).
-
-A Conta: Você deve dividir o Peso em Kg por 1000 para achar as Toneladas.
-
-Regra: * Se o peso convertido for maior que o limite: "Passagem Proibida! Excesso de carga."
-
-Se for menor ou igual: "Passagem Autorizada." 
- */
 import java.util.Scanner;
 
 public class Ex13 {

@@ -1,8 +1,3 @@
-//4. Filtro de Combustível (Diesel vs Gasolina)
-//Peça ao motorista para digitar "D" para Diesel ou "G" para Gasolina.
-//Condição: Se for "D", exiba "Vá para as bombas 1 e 2 (Camiões)".
-//Senão: Exiba "Vá para as bombas 3 e 4 (Carros)"
-
 import java.util.Scanner;
 
 public class Ex04 {

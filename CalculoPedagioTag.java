@@ -1,14 +1,4 @@
 
-/**
-Neste exercício, você vai lidar com um valor fixo se for carro/caminhão pequeno e um valor 
-por eixo se for maior, além da condição da TAG.
-Entradas:
-Quantidade de eixos (int).
-Status da TAG (int): sendo 1 para Ativa e 0 para Inativa.
-Regras:
-Se a TAG for 1: O valor exibido deve ser sempre 0.00.
-Se a TAG for 0: Caminhões com até 2 eixos: Valor fixo de R$ 16,50
- */
 import java.util.Scanner;
 
 public class Ex12 {

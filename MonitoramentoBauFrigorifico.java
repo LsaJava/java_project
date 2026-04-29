@@ -1,15 +1,3 @@
-/*
- * O Cenário: Você está criando o software de monitoramento para um baú 
- * frigorífico que transporta carnes de exportação.
-
-As Regras:
-
-Abaixo de -18.0°C: "Temperatura ideal: Congelamento profundo."
-
-Entre -18.0°C e -10.0°C: "Atenção: Temperatura subindo, verifique o termostato."
-
-Acima de -10.0°C: "PERIGO: Carga em risco de descongelamento!
- */
 import java.util.Scanner;
 
 public class Ex17 {
